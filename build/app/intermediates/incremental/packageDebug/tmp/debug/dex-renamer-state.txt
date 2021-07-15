@@ -1,0 +1,4 @@
+#Wed Jul 14 18:40:23 CEST 2021
+base.0=D\:\\dakar_events\\yobbulma_mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
